@@ -1,1 +1,1 @@
-Hello there ! ![](imgs/gif/waving.-hi.gif) 
+Hello there ! ![](imgs/gif/waving-hi.gif) 
