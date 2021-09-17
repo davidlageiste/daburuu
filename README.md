@@ -1,1 +1,2 @@
 # Hello there ! <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
+## I'm David, I live in Paris and i'm a Web Developper ! 
